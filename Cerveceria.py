@@ -1,0 +1,1 @@
+print('La cerveza se llama:\n' + ' \"' + input('¿Cual sería su nacionalidad?: ') + ' ' + input('Nombre de mascota: ') + '\"')
